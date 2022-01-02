@@ -18,7 +18,7 @@ N, M = map(int, sys.stdin.readline().split())
 board = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 
 # 문자열 입력 받기
-data = sys.stdin.readline().rstrip()
+data = sys.stdin.readline().strip()
 
 # 문자열 n줄 입력받아 리스트 저장
 n = int(sys.stdin.readline())

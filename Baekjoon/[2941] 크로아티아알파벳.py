@@ -1,5 +1,6 @@
 '''
-
+백준 2941번
+https://www.acmicpc.net/problem/2941
 '''
 
 alphabet = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
